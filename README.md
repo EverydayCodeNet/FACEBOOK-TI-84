@@ -1,4 +1,4 @@
-# FACEBOOK-TI-84
+# FACEBOOK TI-84 CALCULATOR EDITION
 Starting off with a simple password system, I wanted to test the limits of the TI-84 calculator. Eventually, I found out how to use lists like databases for password management. This is the result.
 
 ## How to Download
