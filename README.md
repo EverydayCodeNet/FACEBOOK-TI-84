@@ -32,3 +32,9 @@ prgmMARIO
 ## Acknowledgements
 - The [TI-Basic Developer](http://tibasicdev.wikidot.com/) website was very helpful in getting specific commands!
 - Calculus - great at being boring.
+
+## Future Update Ideas
+- Status updates
+- Delete account
+- Change username and password (forgot username function)
+- 
