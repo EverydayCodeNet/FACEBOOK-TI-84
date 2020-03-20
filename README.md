@@ -20,12 +20,11 @@ Using the Goto commands, you can run a program behind the login screen.
 
 Example (abridged):
 ```
-Prompt
+Input "Username",U
 If U=1234
 Then
-Prompt P
+Input "Password",P
 If P=4321
-Then
 prgmMARIO
 ```
 
