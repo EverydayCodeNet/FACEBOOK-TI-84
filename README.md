@@ -3,7 +3,7 @@ Starting off with a simple password system, I wanted to test the limits of the T
 
 ## How to Download
 1. Download the TI Connect CE Emulator.
-2. Download FACEBOOK.8xp and LISTS.zip.
+2. Download FACEBOOK.8xp.
 3. Connect the calculator with the USB cable. 
 4. Click on the Calculator Explorer (papers) icon.
 5. Drag and drop the files to the calculator.
@@ -16,7 +16,7 @@ Starting off with a simple password system, I wanted to test the limits of the T
 ## Use & Customize
 
 This version of the program was purposefully left empty for customization.
-Using the Goto commands, you can run a program behind the login screen.
+You can run a program behind the login screen.
 
 Example (abridged):
 ```
